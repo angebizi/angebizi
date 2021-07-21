@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Angelo
+- 👀 I’m interested in DevOps practices as I applied fo a job within an Endpoint Security team.
+- 🌱 I’m currently learning DevOps Foundations and tools
+- 💞️ I’m looking to collaborate on Windows infrastructure/security knowledge in enterprise on-premises and cloud environments.
+- 📫 How to reach me is via email
